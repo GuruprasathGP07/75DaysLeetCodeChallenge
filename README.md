@@ -85,4 +85,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0007-reverse-integer) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
+## Linked List
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0024-swap-nodes-in-pairs) |
+## Recursion
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0024-swap-nodes-in-pairs) |
 <!---LeetCode Topics End-->
