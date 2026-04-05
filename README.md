@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
+| [0657-robot-return-to-origin](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0657-robot-return-to-origin) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0657-robot-return-to-origin](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0657-robot-return-to-origin) |
 | [2751-robot-collisions](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/2751-robot-collisions) |
 ## Math
 |  |
