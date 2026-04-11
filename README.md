@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [1267-count-servers-that-communicate](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/1267-count-servers-that-communicate) |
 | [2751-robot-collisions](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/2751-robot-collisions) |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
 ## Hash Table
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
+| [1267-count-servers-that-communicate](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/1267-count-servers-that-communicate) |
 ## Quickselect
 |  |
 | ------- |
@@ -115,8 +117,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0128-longest-consecutive-sequence) |
+| [1267-count-servers-that-communicate](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/1267-count-servers-that-communicate) |
 ## Design
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0155-min-stack) |
+## Depth-First Search
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/1267-count-servers-that-communicate) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/1267-count-servers-that-communicate) |
+## Matrix
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/1267-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
