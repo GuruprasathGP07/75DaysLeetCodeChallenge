@@ -35,7 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [2751-robot-collisions](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/2751-robot-collisions) |
-## String
+## STRINGS
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
