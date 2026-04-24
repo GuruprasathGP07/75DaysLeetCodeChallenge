@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [1267-count-servers-that-communicate](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/1267-count-servers-that-communicate) |
+| [2833-furthest-point-from-origin](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/2833-furthest-point-from-origin) |
 ## Quickselect
 |  |
 | ------- |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [2833-furthest-point-from-origin](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/2833-furthest-point-from-origin) |
 ## Binary Search
 |  |
 | ------- |
