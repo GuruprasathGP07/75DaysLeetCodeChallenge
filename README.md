@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0011-container-with-most-water) |
+| [1702-maximum-binary-string-after-change](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/1702-maximum-binary-string-after-change) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/2141-maximum-running-time-of-n-computers) |
 ## Stack
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1702-maximum-binary-string-after-change](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/1702-maximum-binary-string-after-change) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2833-furthest-point-from-origin](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/2833-furthest-point-from-origin) |
 ## Binary Search
