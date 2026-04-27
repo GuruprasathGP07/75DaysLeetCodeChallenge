@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0007-reverse-integer) |
 | [0070-climbing-stairs](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -113,12 +114,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0024-swap-nodes-in-pairs) |
 | [0061-rotate-list](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0061-rotate-list) |
 | [0092-reverse-linked-list-ii](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0092-reverse-linked-list-ii) |
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0024-swap-nodes-in-pairs) |
 ## Dynamic Programming
 |  |
