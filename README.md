@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0078-subsets](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0078-subsets) |
 | [0128-longest-consecutive-sequence](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0128-longest-consecutive-sequence) |
+| [0135-candy](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0135-candy) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0198-house-robber](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0198-house-robber) |
 | [0217-contains-duplicate](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0011-container-with-most-water) |
+| [0135-candy](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0135-candy) |
 | [1702-maximum-binary-string-after-change](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/1702-maximum-binary-string-after-change) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/2078-two-furthest-houses-with-different-colors) |
