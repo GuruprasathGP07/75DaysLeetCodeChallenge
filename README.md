@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicate-from-sorted-array](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0041-first-missing-positive](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0041-first-missing-positive) |
+| [0048-rotate-image](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0078-subsets](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0078-subsets) |
 | [0128-longest-consecutive-sequence](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0128-longest-consecutive-sequence) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0007-reverse-integer) |
+| [0048-rotate-image](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0172-factorial-trailing-zeroes](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0172-factorial-trailing-zeroes) |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0048-rotate-image) |
 | [1267-count-servers-that-communicate](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/1267-count-servers-that-communicate) |
 ## String
 |  |
