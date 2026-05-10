@@ -204,4 +204,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1641-count-sorted-vowel-strings](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/1641-count-sorted-vowel-strings) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
