@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/2553-separate-the-digits-in-an-array) |
 | [2751-robot-collisions](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/2751-robot-collisions) |
+| [2784-check-if-array-is-good](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/2784-check-if-array-is-good) |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
 ## Hash Table
 |  |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [2784-check-if-array-is-good](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/2784-check-if-array-is-good) |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
 ## Sorting
 |  |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2751-robot-collisions](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/2751-robot-collisions) |
+| [2784-check-if-array-is-good](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/2784-check-if-array-is-good) |
 ## STRINGS
 |  |
 | ------- |
