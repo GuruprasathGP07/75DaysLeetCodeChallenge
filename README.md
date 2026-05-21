@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0078-subsets) |
 | [0128-longest-consecutive-sequence](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0128-longest-consecutive-sequence) |
 | [0135-candy](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0135-candy) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0061-rotate-list](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0283-move-zeroes) |
