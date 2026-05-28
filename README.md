@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0016-3sum-closest) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0061-rotate-list](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0075-sort-colors) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0002-add-two-numbers) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0024-swap-nodes-in-pairs](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0024-swap-nodes-in-pairs) |
 | [0061-rotate-list](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0061-rotate-list) |
 | [0092-reverse-linked-list-ii](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0092-reverse-linked-list-ii) |
