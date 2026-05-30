@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0078-subsets) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0053-maximum-subarray) |
 | [0347-top-k-frequent-elements](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0198-house-robber) |
 | [0343-integer-break](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0343-integer-break) |
