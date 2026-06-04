@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1641-count-sorted-vowel-strings](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/1641-count-sorted-vowel-strings) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/3783-mirror-distance-of-an-integer) |
 ## Linked List
 |  |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0198-house-robber) |
 | [0343-integer-break](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0343-integer-break) |
 | [1641-count-sorted-vowel-strings](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/1641-count-sorted-vowel-strings) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Memoization
 |  |
 | ------- |
@@ -283,4 +285,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0003-longest-substring-without-repeating-characters) |
+## Enumeration
+|  |
+| ------- |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 <!---LeetCode Topics End-->
