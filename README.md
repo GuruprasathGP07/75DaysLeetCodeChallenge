@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0283-move-zeroes) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2540-minimum-common-value](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/2540-minimum-common-value) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0155-min-stack) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2751-robot-collisions](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/2751-robot-collisions) |
 ## Simulation
 |  |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0024-swap-nodes-in-pairs) |
 | [0061-rotate-list](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0061-rotate-list) |
 | [0092-reverse-linked-list-ii](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0092-reverse-linked-list-ii) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
