@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2540-minimum-common-value](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/2540-minimum-common-value) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3775-reverse-words-with-same-vowel-count](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/3775-reverse-words-with-same-vowel-count) |
 ## Greedy
 |  |
 | ------- |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2553-separate-the-digits-in-an-array](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/2553-separate-the-digits-in-an-array) |
 | [2751-robot-collisions](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/2751-robot-collisions) |
+| [3775-reverse-words-with-same-vowel-count](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/3775-reverse-words-with-same-vowel-count) |
 | [3838-weighted-word-mapping](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/3838-weighted-word-mapping) |
 ## Math
 |  |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2833-furthest-point-from-origin](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/2833-furthest-point-from-origin) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3775-reverse-words-with-same-vowel-count](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/3775-reverse-words-with-same-vowel-count) |
 | [3838-weighted-word-mapping](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/3838-weighted-word-mapping) |
 ## Binary Search
 |  |
