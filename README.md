@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1267-count-servers-that-communicate](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/1267-count-servers-that-communicate) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/1848-minimum-distance-to-the-target-element) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/2078-two-furthest-houses-with-different-colors) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0283-move-zeroes) |
 | [0905-sort-array-by-parity](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0905-sort-array-by-parity) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2540-minimum-common-value](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/2540-minimum-common-value) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
