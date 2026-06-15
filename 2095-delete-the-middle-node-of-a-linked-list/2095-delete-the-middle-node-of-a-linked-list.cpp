@@ -25,9 +25,9 @@ public:
         int t=1;
         while(temp){
             if(n==1) return nullptr;
-            else if((t==r) && r==n){
+            /*else if((t==r) && r==n){
                 temp->next=nullptr;
-            }
+            }*/
             else if(t==r){
                 temp->next=temp->next->next;
             }
