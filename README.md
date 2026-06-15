@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0283-move-zeroes) |
+| [0345-reverse-vowels-of-a-string](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0345-reverse-vowels-of-a-string) |
 | [0905-sort-array-by-parity](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0905-sort-array-by-parity) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0345-reverse-vowels-of-a-string](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0345-reverse-vowels-of-a-string) |
 | [0535-encode-and-decode-tinyurl](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0535-encode-and-decode-tinyurl) |
 | [0537-complex-number-multiplication](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0537-complex-number-multiplication) |
 | [1702-maximum-binary-string-after-change](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/1702-maximum-binary-string-after-change) |
