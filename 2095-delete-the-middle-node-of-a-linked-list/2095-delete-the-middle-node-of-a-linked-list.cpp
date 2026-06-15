@@ -20,9 +20,7 @@ public:
     }
     ListNode* deleteMiddle(ListNode* head) {
         int n=findnum(head);
-        int r=0;
-        if(n%2==0)  r=(n/2);
-        else r=(n/2);
+        int r=n/2;
         ListNode* temp=head;
         int t=1;
         while(temp){
