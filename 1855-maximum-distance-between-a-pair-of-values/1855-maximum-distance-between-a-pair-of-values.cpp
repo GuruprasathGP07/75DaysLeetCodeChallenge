@@ -1,6 +1,7 @@
 class Solution {
 public:
     int maxDistance(vector<int>& n1, vector<int>& n2){
+        // two pointers
         /*int ans=0;
         for(int i=0;i<n1.size();i++){
             for(int j=i;j<n2.size();j++){
