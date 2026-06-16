@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2553-separate-the-digits-in-an-array](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/2553-separate-the-digits-in-an-array) |
 | [2751-robot-collisions](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/2751-robot-collisions) |
+| [3612-process-string-with-special-operations-i](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/3612-process-string-with-special-operations-i) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/3775-reverse-words-with-same-vowel-count) |
 | [3838-weighted-word-mapping](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/3838-weighted-word-mapping) |
 ## Math
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2938-separate-black-and-white-balls](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/2938-separate-black-and-white-balls) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3612-process-string-with-special-operations-i](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/3612-process-string-with-special-operations-i) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/3775-reverse-words-with-same-vowel-count) |
 | [3838-weighted-word-mapping](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/3838-weighted-word-mapping) |
 ## Binary Search
