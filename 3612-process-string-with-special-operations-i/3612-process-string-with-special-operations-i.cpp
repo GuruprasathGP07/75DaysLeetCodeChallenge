@@ -1,7 +1,7 @@
 class Solution {
 public:
     string processStr(string s) {
-        stack<char>st;
+        /*stack<char>st;
         int n=s.length();
         for(int i=0;i<n;i++){
             if(isalpha(s[i])) st.push(s[i]);
@@ -36,5 +36,20 @@ public:
         }
         reverse(ans.begin(),ans.end());
         return ans;
+        */
+        string st="";
+        int n=s.length();
+        for(int i=0;i<n;i++){
+            if(isalpha(s[i])) st+=s[i];
+            else if(s[i]=='*' && !st.empty()) st.pop_back();
+            else if(s[i]=='#' && !st.empty()){
+               string t=st;
+               st+=t;
+            }
+            else{
+                reverse(st.begin(),st.end());
+            }
+        }
+        return st;
     }
 };
