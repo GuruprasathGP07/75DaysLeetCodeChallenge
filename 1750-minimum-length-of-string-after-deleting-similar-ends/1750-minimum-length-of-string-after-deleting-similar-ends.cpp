@@ -1,6 +1,7 @@
 class Solution {
 public:
-    int minimumLength(string s) {
+    int minimumLength(string s){
+        //two pointers
         int l=0,r=s.length()-1;
         char c='m';
         int ans=0;
