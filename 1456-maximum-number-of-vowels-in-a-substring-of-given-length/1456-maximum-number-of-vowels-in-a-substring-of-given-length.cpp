@@ -6,6 +6,7 @@ public:
 
     }
     int maxVowels(string s, int k) {
+        //sliding window
         int l=0,r=0;
         int fans=INT_MIN,ans=0;
         while(r<s.length()){
