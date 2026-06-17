@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2553-separate-the-digits-in-an-array](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/2553-separate-the-digits-in-an-array) |
 | [2751-robot-collisions](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/2751-robot-collisions) |
 | [3612-process-string-with-special-operations-i](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/3612-process-string-with-special-operations-i) |
+| [3614-process-string-with-special-operations-ii](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/3614-process-string-with-special-operations-ii) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/3775-reverse-words-with-same-vowel-count) |
 | [3838-weighted-word-mapping](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/3838-weighted-word-mapping) |
 ## Math
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3120-count-the-number-of-special-characters-i](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3612-process-string-with-special-operations-i](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/3612-process-string-with-special-operations-i) |
+| [3614-process-string-with-special-operations-ii](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/3614-process-string-with-special-operations-ii) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/3775-reverse-words-with-same-vowel-count) |
 | [3838-weighted-word-mapping](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/3838-weighted-word-mapping) |
 ## Binary Search
