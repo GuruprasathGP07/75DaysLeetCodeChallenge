@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0713-subarray-product-less-than-k) |
 | [0905-sort-array-by-parity](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0905-sort-array-by-parity) |
 | [1004-max-consecutive-ones-iii](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/1248-count-number-of-nice-subarrays) |
 | [1267-count-servers-that-communicate](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/1267-count-servers-that-communicate) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0398-random-pick-index](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0398-random-pick-index) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0535-encode-and-decode-tinyurl](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0535-encode-and-decode-tinyurl) |
+| [1248-count-number-of-nice-subarrays](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/1248-count-number-of-nice-subarrays) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2540-minimum-common-value](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/2540-minimum-common-value) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/1004-max-consecutive-ones-iii) |
 | [1208-get-equal-substrings-within-budget](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/1208-get-equal-substrings-within-budget) |
+| [1248-count-number-of-nice-subarrays](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2574-left-and-right-sum-differences](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/2574-left-and-right-sum-differences) |
 ## Two Pointers
@@ -215,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0343-integer-break](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0343-integer-break) |
 | [0398-random-pick-index](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0398-random-pick-index) |
 | [0537-complex-number-multiplication](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0537-complex-number-multiplication) |
+| [1248-count-number-of-nice-subarrays](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/1248-count-number-of-nice-subarrays) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1641-count-sorted-vowel-strings](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/1641-count-sorted-vowel-strings) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
@@ -350,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/1004-max-consecutive-ones-iii) |
 | [1208-get-equal-substrings-within-budget](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/1208-get-equal-substrings-within-budget) |
+| [1248-count-number-of-nice-subarrays](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/1248-count-number-of-nice-subarrays) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
