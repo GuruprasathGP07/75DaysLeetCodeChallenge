@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0283-move-zeroes) |
+| [0303-range-sum-query-immutable](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0485-max-consecutive-ones) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0303-range-sum-query-immutable) |
 | [0713-subarray-product-less-than-k](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/1004-max-consecutive-ones-iii) |
 | [1208-get-equal-substrings-within-budget](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/1208-get-equal-substrings-within-budget) |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0155-min-stack) |
+| [0303-range-sum-query-immutable](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0303-range-sum-query-immutable) |
 | [0535-encode-and-decode-tinyurl](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0535-encode-and-decode-tinyurl) |
 ## Depth-First Search
 |  |
