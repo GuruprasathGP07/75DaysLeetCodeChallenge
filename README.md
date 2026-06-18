@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1480-running-sum-of-1d-array](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/1480-running-sum-of-1d-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/1848-minimum-distance-to-the-target-element) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1208-get-equal-substrings-within-budget](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/1208-get-equal-substrings-within-budget) |
 | [1248-count-number-of-nice-subarrays](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1480-running-sum-of-1d-array](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/1480-running-sum-of-1d-array) |
 | [2574-left-and-right-sum-differences](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/2574-left-and-right-sum-differences) |
 ## Two Pointers
 |  |
