@@ -231,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0172-factorial-trailing-zeroes) |
 | [0343-integer-break](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0343-integer-break) |
 | [0398-random-pick-index](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0398-random-pick-index) |
+| [0441-arranging-coins](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0441-arranging-coins) |
 | [0537-complex-number-multiplication](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0537-complex-number-multiplication) |
 | [1248-count-number-of-nice-subarrays](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/1248-count-number-of-nice-subarrays) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -328,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0278-first-bad-version](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0374-guess-number-higher-or-lower) |
+| [0441-arranging-coins](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0441-arranging-coins) |
 | [0713-subarray-product-less-than-k](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0713-subarray-product-less-than-k) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1004-max-consecutive-ones-iii](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/1004-max-consecutive-ones-iii) |
