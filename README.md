@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0485-max-consecutive-ones) |
+| [0540-single-element-in-a-sorted-array](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0540-single-element-in-a-sorted-array) |
 | [0643-maximum-average-subarray-i](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0724-find-pivot-index) |
@@ -330,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0278-first-bad-version](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0441-arranging-coins) |
+| [0540-single-element-in-a-sorted-array](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0540-single-element-in-a-sorted-array) |
 | [0713-subarray-product-less-than-k](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0713-subarray-product-less-than-k) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1004-max-consecutive-ones-iii](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/1004-max-consecutive-ones-iii) |
