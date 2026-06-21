@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1732-find-the-highest-altitude](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1833-maximum-ice-cream-bars](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/1833-maximum-ice-cream-bars) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0905-sort-array-by-parity](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0905-sort-array-by-parity) |
+| [1833-maximum-ice-cream-bars](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/1833-maximum-ice-cream-bars) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2126-destroying-asteroids](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/2126-destroying-asteroids) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/2141-maximum-running-time-of-n-computers) |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0011-container-with-most-water) |
 | [0135-candy](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0135-candy) |
 | [1702-maximum-binary-string-after-change](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/1702-maximum-binary-string-after-change) |
+| [1833-maximum-ice-cream-bars](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/1833-maximum-ice-cream-bars) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2126-destroying-asteroids](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/2126-destroying-asteroids) |
@@ -400,4 +403,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0278-first-bad-version](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0374-guess-number-higher-or-lower) |
+## Counting Sort
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/1833-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
