@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2141-maximum-running-time-of-n-computers](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2187-minimum-time-to-complete-trips](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/2187-minimum-time-to-complete-trips) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
@@ -354,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1208-get-equal-substrings-within-budget](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/1208-get-equal-substrings-within-budget) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/2141-maximum-running-time-of-n-computers) |
+| [2187-minimum-time-to-complete-trips](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/2187-minimum-time-to-complete-trips) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2540-minimum-common-value](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/2540-minimum-common-value) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
