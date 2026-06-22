@@ -238,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0172-factorial-trailing-zeroes](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0172-factorial-trailing-zeroes) |
 | [0343-integer-break](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0343-integer-break) |
+| [0367-valid-perfect-square](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0367-valid-perfect-square) |
 | [0398-random-pick-index](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0398-random-pick-index) |
 | [0441-arranging-coins](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0441-arranging-coins) |
 | [0537-complex-number-multiplication](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0537-complex-number-multiplication) |
@@ -338,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0278-first-bad-version](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0278-first-bad-version) |
+| [0367-valid-perfect-square](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0441-arranging-coins) |
 | [0540-single-element-in-a-sorted-array](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0540-single-element-in-a-sorted-array) |
