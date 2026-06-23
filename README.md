@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2187-minimum-time-to-complete-trips](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/2187-minimum-time-to-complete-trips) |
+| [2256-minimum-average-difference](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/2256-minimum-average-difference) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/1480-running-sum-of-1d-array) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1732-find-the-highest-altitude](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/1732-find-the-highest-altitude) |
+| [2256-minimum-average-difference](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/2256-minimum-average-difference) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/2559-count-vowel-strings-in-ranges) |
 | [2574-left-and-right-sum-differences](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/2574-left-and-right-sum-differences) |
