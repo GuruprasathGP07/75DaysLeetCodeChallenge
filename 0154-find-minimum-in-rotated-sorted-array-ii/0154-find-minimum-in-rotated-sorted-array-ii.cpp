@@ -1,21 +1,16 @@
 class Solution {
 public:
-    int findMin(vector<int>& nums) {
-        set<int>s(nums.begin(),nums.end());
-        int i=0;
-        vector<int>arr;
-        for(int i:s){
-            arr.push_back(i);
-        }
+    int findMin(vector<int>& arr){
         int l=0,r=arr.size()-1;
         int ans=INT_MAX;
         while(l<=r){
             int m=(l+r)/2;
-            if(arr[l]==arr[m]){
+            if(arr[l]==arr[m] && arr[m]==arr[r]){
                 ans=min(ans,arr[l]);
-                l=m+1;
+                l++;
+                r--;
             }
-            else if(arr[l]<arr[m]){
+            else if(arr[l]<=arr[m]){
                 ans=min(ans,arr[l]);
                 l=m+1;
             } 
