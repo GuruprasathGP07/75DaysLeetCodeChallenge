@@ -28,7 +28,7 @@ public:
             
             ListNode* nextone=temp->next;
             d->next=temp;
-             d=d->next;
+            d=d->next;
             d->next=new ListNode(g);
             d=d->next;
             d->next=nextone;
