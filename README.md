@@ -263,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1641-count-sorted-vowel-strings](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/1641-count-sorted-vowel-strings) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/3783-mirror-distance-of-an-integer) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/2181-merge-nodes-in-between-zeros) |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -436,4 +438,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/1833-maximum-ice-cream-bars) |
+## Number Theory
+|  |
+| ------- |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 <!---LeetCode Topics End-->
