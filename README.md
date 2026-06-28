@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0485-max-consecutive-ones) |
+| [0539-minimum-time-difference](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0539-minimum-time-difference) |
 | [0540-single-element-in-a-sorted-array](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0540-single-element-in-a-sorted-array) |
 | [0643-maximum-average-subarray-i](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0713-subarray-product-less-than-k) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
+| [0539-minimum-time-difference](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0539-minimum-time-difference) |
 | [0905-sort-array-by-parity](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0905-sort-array-by-parity) |
 | [1833-maximum-ice-cream-bars](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0398-random-pick-index](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0398-random-pick-index) |
 | [0441-arranging-coins](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0441-arranging-coins) |
 | [0537-complex-number-multiplication](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0537-complex-number-multiplication) |
+| [0539-minimum-time-difference](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0539-minimum-time-difference) |
 | [1248-count-number-of-nice-subarrays](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/1248-count-number-of-nice-subarrays) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/1344-angle-between-hands-of-a-clock) |
@@ -345,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0345-reverse-vowels-of-a-string) |
 | [0535-encode-and-decode-tinyurl](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0535-encode-and-decode-tinyurl) |
 | [0537-complex-number-multiplication](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0537-complex-number-multiplication) |
+| [0539-minimum-time-difference](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0539-minimum-time-difference) |
 | [1189-maximum-number-of-balloons](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/1189-maximum-number-of-balloons) |
 | [1208-get-equal-substrings-within-budget](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/1208-get-equal-substrings-within-budget) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/1358-number-of-substrings-containing-all-three-characters) |
