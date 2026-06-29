@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2126-destroying-asteroids](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/2126-destroying-asteroids) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/2141-maximum-running-time-of-n-computers) |
@@ -355,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1702-maximum-binary-string-after-change](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/1702-maximum-binary-string-after-change) |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/2559-count-vowel-strings-in-ranges) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/2697-lexicographically-smallest-palindrome) |
