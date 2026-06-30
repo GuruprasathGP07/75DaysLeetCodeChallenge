@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0485-max-consecutive-ones) |
+| [0503-next-greater-element-ii](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0503-next-greater-element-ii) |
 | [0539-minimum-time-difference](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0539-minimum-time-difference) |
 | [0540-single-element-in-a-sorted-array](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0540-single-element-in-a-sorted-array) |
 | [0643-maximum-average-subarray-i](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0643-maximum-average-subarray-i) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0155-min-stack) |
+| [0503-next-greater-element-ii](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
 | [0856-score-of-parentheses](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -470,5 +472,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0503-next-greater-element-ii](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
