@@ -236,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0020-valid-parentheses) |
+| [0071-simplify-path](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0071-simplify-path) |
 | [0143-reorder-list](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0155-min-stack) |
@@ -358,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0020-valid-parentheses) |
+| [0071-simplify-path](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0071-simplify-path) |
 | [0345-reverse-vowels-of-a-string](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0345-reverse-vowels-of-a-string) |
 | [0535-encode-and-decode-tinyurl](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0535-encode-and-decode-tinyurl) |
 | [0537-complex-number-multiplication](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0537-complex-number-multiplication) |
