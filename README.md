@@ -246,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0071-simplify-path) |
 | [0143-reorder-list](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0143-reorder-list) |
+| [0144-binary-tree-preorder-traversal](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0144-binary-tree-preorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0155-min-stack) |
 | [0503-next-greater-element-ii](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0503-next-greater-element-ii) |
@@ -354,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0079-word-search) |
+| [0144-binary-tree-preorder-traversal](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0144-binary-tree-preorder-traversal) |
 | [1267-count-servers-that-communicate](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/1267-count-servers-that-communicate) |
 ## Breadth-First Search
 |  |
@@ -505,4 +507,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0901-online-stock-span) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
