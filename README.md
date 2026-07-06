@@ -358,12 +358,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0144-binary-tree-preorder-traversal) |
+| [0617-merge-two-binary-trees](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0617-merge-two-binary-trees) |
 | [1267-count-servers-that-communicate](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/1267-count-servers-that-communicate) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0617-merge-two-binary-trees](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0617-merge-two-binary-trees) |
 | [1267-count-servers-that-communicate](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/1267-count-servers-that-communicate) |
 ## Matrix
 |  |
@@ -517,10 +519,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0144-binary-tree-preorder-traversal) |
+| [0617-merge-two-binary-trees](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0617-merge-two-binary-trees) |
 ## Binary Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0144-binary-tree-preorder-traversal) |
+| [0617-merge-two-binary-trees](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0617-merge-two-binary-trees) |
 <!---LeetCode Topics End-->
