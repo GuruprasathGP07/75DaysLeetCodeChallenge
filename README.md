@@ -361,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0144-binary-tree-preorder-traversal) |
+| [0257-binary-tree-paths](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0257-binary-tree-paths) |
 | [0617-merge-two-binary-trees](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0617-merge-two-binary-trees) |
 | [0872-leaf-similar-trees](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0872-leaf-similar-trees) |
 | [1267-count-servers-that-communicate](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/1267-count-servers-that-communicate) |
@@ -387,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0071-simplify-path) |
 | [0079-word-search](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0079-word-search) |
+| [0257-binary-tree-paths](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0257-binary-tree-paths) |
 | [0345-reverse-vowels-of-a-string](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0345-reverse-vowels-of-a-string) |
 | [0535-encode-and-decode-tinyurl](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0535-encode-and-decode-tinyurl) |
 | [0537-complex-number-multiplication](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0537-complex-number-multiplication) |
@@ -443,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0077-combinations](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0079-word-search) |
+| [0257-binary-tree-paths](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0257-binary-tree-paths) |
 | [0491-non-decreasing-subsequences](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0491-non-decreasing-subsequences) |
 | [0494-target-sum](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0494-target-sum) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/2597-the-number-of-beautiful-subsets) |
@@ -526,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0144-binary-tree-preorder-traversal) |
+| [0257-binary-tree-paths](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0257-binary-tree-paths) |
 | [0617-merge-two-binary-trees](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0617-merge-two-binary-trees) |
 | [0872-leaf-similar-trees](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0872-leaf-similar-trees) |
 ## Binary Tree
@@ -536,6 +540,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0144-binary-tree-preorder-traversal) |
+| [0257-binary-tree-paths](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0257-binary-tree-paths) |
 | [0617-merge-two-binary-trees](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0617-merge-two-binary-trees) |
 | [0872-leaf-similar-trees](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0872-leaf-similar-trees) |
 <!---LeetCode Topics End-->
