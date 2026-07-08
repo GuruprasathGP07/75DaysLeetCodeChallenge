@@ -363,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0144-binary-tree-preorder-traversal) |
 | [0257-binary-tree-paths](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0257-binary-tree-paths) |
 | [0617-merge-two-binary-trees](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0617-merge-two-binary-trees) |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0872-leaf-similar-trees) |
 | [1267-count-servers-that-communicate](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/1267-count-servers-that-communicate) |
 ## Breadth-First Search
@@ -532,6 +533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0144-binary-tree-preorder-traversal) |
 | [0257-binary-tree-paths](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0257-binary-tree-paths) |
 | [0617-merge-two-binary-trees](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0617-merge-two-binary-trees) |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0872-leaf-similar-trees) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0958-check-completeness-of-a-binary-tree) |
 ## Binary Tree
@@ -544,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0144-binary-tree-preorder-traversal) |
 | [0257-binary-tree-paths](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0257-binary-tree-paths) |
 | [0617-merge-two-binary-trees](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0617-merge-two-binary-trees) |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0872-leaf-similar-trees) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0958-check-completeness-of-a-binary-tree) |
 <!---LeetCode Topics End-->
