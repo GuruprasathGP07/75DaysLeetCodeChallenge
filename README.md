@@ -362,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0199-binary-tree-right-side-view) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0257-binary-tree-paths](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0404-sum-of-left-leaves) |
 | [0513-find-bottom-left-tree-value](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0513-find-bottom-left-tree-value) |
@@ -545,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0199-binary-tree-right-side-view) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0257-binary-tree-paths](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0404-sum-of-left-leaves) |
 | [0513-find-bottom-left-tree-value](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0513-find-bottom-left-tree-value) |
@@ -566,6 +568,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0199-binary-tree-right-side-view) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0257-binary-tree-paths](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0404-sum-of-left-leaves) |
 | [0513-find-bottom-left-tree-value](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0513-find-bottom-left-tree-value) |
@@ -580,6 +583,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0938-range-sum-of-bst) |
 <!---LeetCode Topics End-->
