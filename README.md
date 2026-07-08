@@ -369,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0872-leaf-similar-trees) |
+| [0938-range-sum-of-bst](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0938-range-sum-of-bst) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1267-count-servers-that-communicate](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/1267-count-servers-that-communicate) |
 ## Breadth-First Search
@@ -552,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0872-leaf-similar-trees](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0872-leaf-similar-trees) |
+| [0938-range-sum-of-bst](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0938-range-sum-of-bst) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Binary Tree
@@ -572,10 +574,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0872-leaf-similar-trees](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0872-leaf-similar-trees) |
+| [0938-range-sum-of-bst](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0938-range-sum-of-bst) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0701-insert-into-a-binary-search-tree](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0938-range-sum-of-bst](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0938-range-sum-of-bst) |
 <!---LeetCode Topics End-->
