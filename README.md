@@ -285,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0441-arranging-coins) |
 | [0537-complex-number-multiplication](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0537-complex-number-multiplication) |
 | [0539-minimum-time-difference](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0539-minimum-time-difference) |
+| [1137-n-th-tribonacci-number](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/1137-n-th-tribonacci-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/1248-count-number-of-nice-subarrays) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/1344-angle-between-hands-of-a-clock) |
@@ -332,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0198-house-robber) |
 | [0343-integer-break](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0343-integer-break) |
 | [0494-target-sum](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0494-target-sum) |
+| [1137-n-th-tribonacci-number](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/1137-n-th-tribonacci-number) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1641-count-sorted-vowel-strings](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/1641-count-sorted-vowel-strings) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/2597-the-number-of-beautiful-subsets) |
@@ -340,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0070-climbing-stairs) |
+| [1137-n-th-tribonacci-number](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/1137-n-th-tribonacci-number) |
 ## Union-Find
 |  |
 | ------- |
