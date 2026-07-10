@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2187-minimum-time-to-complete-trips](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/2187-minimum-time-to-complete-trips) |
+| [2208-minimum-operations-to-halve-array-sum](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/2208-minimum-operations-to-halve-array-sum) |
 | [2256-minimum-average-difference](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/2256-minimum-average-difference) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/2448-minimum-cost-to-make-array-equal) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0703-kth-largest-element-in-a-stream](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1046-last-stone-weight](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/1046-last-stone-weight) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/1962-remove-stones-to-minimize-the-total) |
+| [2208-minimum-operations-to-halve-array-sum](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/2208-minimum-operations-to-halve-array-sum) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2974-minimum-number-game](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/2974-minimum-number-game) |
 ## Bucket Sort
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2126-destroying-asteroids](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/2126-destroying-asteroids) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2208-minimum-operations-to-halve-array-sum](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/2208-minimum-operations-to-halve-array-sum) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/2697-lexicographically-smallest-palindrome) |
 | [2938-separate-black-and-white-balls](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/2938-separate-black-and-white-balls) |
