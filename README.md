@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2751-robot-collisions](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/2751-robot-collisions) |
 | [2784-check-if-array-is-good](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/2784-check-if-array-is-good) |
 | [2974-minimum-number-game](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/2974-minimum-number-game) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2597-the-number-of-beautiful-subsets](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/2784-check-if-array-is-good) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2751-robot-collisions](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/2751-robot-collisions) |
 | [2784-check-if-array-is-good](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/2784-check-if-array-is-good) |
 | [2974-minimum-number-game](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/2974-minimum-number-game) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## STRINGS
 |  |
