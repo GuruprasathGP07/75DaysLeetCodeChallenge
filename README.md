@@ -260,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1927-sum-game](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/1927-sum-game) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2126-destroying-asteroids](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/2126-destroying-asteroids) |
@@ -327,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1641-count-sorted-vowel-strings](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/1641-count-sorted-vowel-strings) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
+| [1927-sum-game](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/1927-sum-game) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
@@ -468,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1702-maximum-binary-string-after-change](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/1702-maximum-binary-string-after-change) |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
+| [1927-sum-game](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/2559-count-vowel-strings-in-ranges) |
@@ -648,4 +651,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0701-insert-into-a-binary-search-tree](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0938-range-sum-of-bst](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0938-range-sum-of-bst) |
+## Game Theory
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/1927-sum-game) |
 <!---LeetCode Topics End-->
