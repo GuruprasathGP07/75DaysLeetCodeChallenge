@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3689-maximum-total-subarray-value-i](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/3689-maximum-total-subarray-value-i) |
 | [3838-weighted-word-mapping](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/3838-weighted-word-mapping) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3121-count-the-number-of-special-characters-ii](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Sorting
 |  |
 | ------- |
@@ -437,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0958-check-completeness-of-a-binary-tree](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1267-count-servers-that-communicate](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/1267-count-servers-that-communicate) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Matrix
 |  |
 | ------- |
@@ -448,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1267-count-servers-that-communicate](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/1267-count-servers-that-communicate) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## String
 |  |
 | ------- |
@@ -525,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0078-subsets) |
 | [0491-non-decreasing-subsequences](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0491-non-decreasing-subsequences) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Combinatorics
 |  |
 | ------- |
