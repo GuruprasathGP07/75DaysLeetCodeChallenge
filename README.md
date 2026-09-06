@@ -380,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0070-climbing-stairs) |
+| [0115-distinct-subsequences](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0115-distinct-subsequences) |
 | [0198-house-robber](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0198-house-robber) |
 | [0343-integer-break](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0343-integer-break) |
 | [0494-target-sum](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0494-target-sum) |
@@ -467,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0071-simplify-path) |
 | [0079-word-search](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0079-word-search) |
+| [0115-distinct-subsequences](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0115-distinct-subsequences) |
 | [0257-binary-tree-paths](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0257-binary-tree-paths) |
 | [0345-reverse-vowels-of-a-string](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0345-reverse-vowels-of-a-string) |
 | [0535-encode-and-decode-tinyurl](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0535-encode-and-decode-tinyurl) |
