@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0835-image-overlap](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0835-image-overlap) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0905-sort-array-by-parity](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0905-sort-array-by-parity) |
 | [1004-max-consecutive-ones-iii](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/1004-max-consecutive-ones-iii) |
@@ -465,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0079-word-search) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0835-image-overlap](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0835-image-overlap) |
 | [1267-count-servers-that-communicate](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/1267-count-servers-that-communicate) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/3568-minimum-moves-to-clean-the-classroom) |
