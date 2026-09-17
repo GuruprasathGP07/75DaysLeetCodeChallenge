@@ -3,10 +3,8 @@ public:
 	int minSumOfLengths(vector<int>& arr,int target) {
 		int n=arr.size();
 		vector<int>min_len(n,1e9);
-		int left=0;
-		int sum=0;
-		int best=1e9;
-		int ans=1e9;
+		int left=0,sum=0;
+		int best=1e9,ans=1e9;
 		for(int i=0;i<n;i++) {
 			sum +=arr[i];
 			while(sum>target && left<=i ) {
