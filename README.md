@@ -350,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/1248-count-number-of-nice-subarrays) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1641-count-sorted-vowel-strings](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/1641-count-sorted-vowel-strings) |
@@ -712,4 +713,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/1401-circle-and-rectangle-overlapping) |
 <!---LeetCode Topics End-->
