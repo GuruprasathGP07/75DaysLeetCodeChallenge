@@ -325,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2751-robot-collisions](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/2751-robot-collisions) |
 | [2974-minimum-number-game](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/2974-minimum-number-game) |
 | [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
+| [3498-reverse-degree-of-a-string](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/3498-reverse-degree-of-a-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/3614-process-string-with-special-operations-ii) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/3775-reverse-words-with-same-vowel-count) |
@@ -525,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2938-separate-black-and-white-balls](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/2938-separate-black-and-white-balls) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3498-reverse-degree-of-a-string](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/3498-reverse-degree-of-a-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/3614-process-string-with-special-operations-ii) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/3775-reverse-words-with-same-vowel-count) |
