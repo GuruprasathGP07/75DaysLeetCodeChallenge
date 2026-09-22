@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/3483-unique-3-digit-even-numbers) |
+| [3525-find-x-value-of-array-ii](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/3525-find-x-value-of-array-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3689-maximum-total-subarray-value-i](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/3689-maximum-total-subarray-value-i) |
@@ -362,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2597-the-number-of-beautiful-subsets](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3525-find-x-value-of-array-ii](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/3525-find-x-value-of-array-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/3783-mirror-distance-of-an-integer) |
@@ -718,4 +720,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0836-rectangle-overlap](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/1401-circle-and-rectangle-overlapping) |
+## Segment Tree
+|  |
+| ------- |
+| [3525-find-x-value-of-array-ii](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/3525-find-x-value-of-array-ii) |
 <!---LeetCode Topics End-->
