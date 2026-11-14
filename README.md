@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3364-minimum-positive-sum-subarray](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/3364-minimum-positive-sum-subarray) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/3483-unique-3-digit-even-numbers) |
 | [3524-find-x-value-of-array-i](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/3524-find-x-value-of-array-i) |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2448-minimum-cost-to-make-array-equal](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/2559-count-vowel-strings-in-ranges) |
 | [2574-left-and-right-sum-differences](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/2574-left-and-right-sum-differences) |
+| [3364-minimum-positive-sum-subarray](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/3364-minimum-positive-sum-subarray) |
 | [3903-smallest-stable-index-i](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/3904-smallest-stable-index-ii) |
 ## Two Pointers
@@ -671,6 +673,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [3364-minimum-positive-sum-subarray](https://github.com/GuruprasathGP07/75DaysLeetCodeChallenge/tree/master/3364-minimum-positive-sum-subarray) |
 ## Enumeration
 |  |
 | ------- |
